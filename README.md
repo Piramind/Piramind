@@ -1,11 +1,9 @@
 ### Hi there 👋
-
+[![Lev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piramind)](https://github.com/Piramind/github-readme-stats)
 <!--
 **Piramind/Piramind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-[![Lev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piramind)](https://github.com/Piramind/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
