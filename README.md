@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python, Go, Devops tech.
 - CV - https://resume.io/r/xbGZ41Qog
+- CV(HH.ru) - https://spb.hh.ru/resume/6fff1c7aff086134d50039ed1f47665437646e
 - Hackatons ❤️
 
 [![Lev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piramind)](https://github.com/Piramind/github-readme-stats)
