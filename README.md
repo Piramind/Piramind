@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python, Go, Devops tech.
-- CV - https://resume.io/r/xbGZ41Qog
 - CV(HH.ru) - https://spb.hh.ru/resume/6fff1c7aff086134d50039ed1f47665437646e
 - Hackatons ❤️
 
