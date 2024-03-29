@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python, Go, Devops tech.
-- CV(HH.ru) - https://spb.hh.ru/resume/6fff1c7aff086134d50039ed1f47665437646e
+- CV(HH.ru) - 
 - Hackatons ❤️
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piramind&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piramind&theme=solarized_dark)
